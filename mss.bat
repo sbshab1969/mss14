@@ -1,1 +1,1 @@
-java -jar target/mss14-14.0.1.jar
+java -jar target/mss-14.0.1.jar
